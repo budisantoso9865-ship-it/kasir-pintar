@@ -1,0 +1,8 @@
+{
+  "name": "KoinWash Pro - Smart Coin Laundry POS",
+  "description": "Aplikasi Kasir Pintar Laundry Koin dengan cetak nota, kirim WhatsApp otomatis, pelacakan real-time, loyalty member 10x gratis 1x, dan laporan keuangan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
